@@ -1,5 +1,5 @@
 # Docker skeleton
-docker skeleton for creating a controlled environment for php applications
+Docker skeleton for creating a controlled environment for php applications
 
 # Introduction
 With this skeleton you can easily create a webserver with a mysql database using docker-compose
